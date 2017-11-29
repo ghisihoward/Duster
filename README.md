@@ -1,4 +1,4 @@
 # Project Duster 
 
-Univali Florianópolis
----
+> Univali Florianópolis
+> LED - Laboratório de Entretenimento Digital
